@@ -38,3 +38,4 @@ Para rodar o projeto style basta usar as tasks:
 	* /fonts
 		* contem todas as fonts do font-awesome e as fontes usadas no projeto. Sempre bom atualizar os arquivos do font-awesome de acordo com a instalacao via npm, basta acessar "/node_modules/font-awesome/fonts" copiar seus files e colar neste diretorio
 	* config.rb -> arquivo de configuracao do compass# skeletonSassCompass
+# skeletonSassCompass
